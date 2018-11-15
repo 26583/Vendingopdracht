@@ -6,7 +6,7 @@ public class vendingmachine
     public static boolean spel() {
         Scanner drink = new Scanner(System.in);
         int c;
-        System.out.println("-----");
+        System.out.println("_____");
         System.out.println("\\   /");
         System.out.println(" \\ /");
         System.out.println("  |");
