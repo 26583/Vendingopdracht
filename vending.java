@@ -32,6 +32,7 @@ public class vendingmachine
             System.out.println("Thank you");
             System.out.println("Your change is ");
             System.out.println(p-90 + " cents.");
+            spel();
         }
         else{
             System.out.println("You're " + (90-p) + " short.");
@@ -46,8 +47,7 @@ public class vendingmachine
                 System.out.println("----------------------");
                 System.out.println("Thanks.");
                 System.out.println("Your change is " + (p4-90) + " cents.");
-
-
+                spel();
             }
             else{
                 System.out.println("that's not right.");
