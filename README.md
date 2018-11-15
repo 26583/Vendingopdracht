@@ -11,5 +11,6 @@ Je hebt twee kansen om goed te betalen, Als je te weinig betaald zegt hij hoevee
 <h4>Pelle Meijer MG1A</h4>
 <p>
 PS: Ik heb deze opdracht in de auto naar Friesland geschreven en toen heb ik dus geen commits gemaakt.<br>
-Het lukte ook niet samen met de hulp van simon om mijn programma via intelij te commiten.
+Het lukte ook niet samen met de hulp van simon om mijn programma via intelij te commiten.<br>
+Ik heb in de java file in de repository veranderd na het inleveren dus als je daar rekening mee kan houden zou dat fijn zijn.
 </p>
