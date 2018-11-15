@@ -3,7 +3,8 @@
 <h3>Vending machine zilvere opdracht</h3>
 <p>In dit programma krijg je de keuze uit cola, fanta of sprite.<br>
 Je kan kiezen door het nummer in te typen dat voor het drankje staat.<br>
-Je kan betalen door het geld dat je wilt betalen in te typen.
+Je kan betalen door het geld dat je wilt betalen in te typen.<br>
+Als je te veel betaald krijg je te zien hoeveel je terug krijgt.
 </p>
 <p>
 Je hebt twee kansen om goed te betalen, Als je te weinig betaald zegt hij hoeveel je nog moet betalen.
